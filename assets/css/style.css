@@ -394,7 +394,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #2cbcc9;
+  background-image: linear-gradient(to bottom right, #00ABB3, #FFF8EA,  #c9bfbf);
 }
 
 #hero .container {
@@ -1890,3 +1890,6 @@ section {
   background: #cdcbcb;
   transition: 0.5s;
 }
+
+/* 
+background-image: linear-gradient(to bottom right, #ff0086, #13e1ff */
